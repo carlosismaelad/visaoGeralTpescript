@@ -1,0 +1,17 @@
+{
+  "name": "03-primeiro-projeto-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist.js",
+  "devDependencies": {
+    "tsc-watch": "^6.0.4",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "tsc-watch": "tsc-watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
